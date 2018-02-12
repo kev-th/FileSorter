@@ -28,7 +28,7 @@ class FileSorter {
         miscDestination = destination + "/Misc/";
         new File(miscDestination).mkdirs();
 
-        picturesDestination = destination + "/Misc/";
+        picturesDestination = destination + "/Pics/";
         new File(picturesDestination).mkdirs();
 
     }
